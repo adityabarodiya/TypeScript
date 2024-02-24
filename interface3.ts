@@ -14,4 +14,4 @@ class Dog implements Animal{
 }
 
 const dog: Dog = new Dog('Luna', 30);
-dog.speak('woof');
+dog.speak('woofff');
