@@ -9,8 +9,8 @@ class Dog implements Animal{
 
     }
     speak(sound: string){
-        console.log(`${this.name} says that ${sound}`);
-    } 
+        console.log(`${this.name} says  ${sound}`);
+    } //
 }
 
 const dog: Dog = new Dog('Luna', 30);
