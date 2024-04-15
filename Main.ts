@@ -13,3 +13,5 @@ const greet = (person: Person) => {
 }
 
 greet(p);
+
+console.log('hellp')
